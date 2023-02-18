@@ -1,4 +1,4 @@
-# Hi, dear 👋
+# Hi, there 👋
 
 ## Welcome to my profile 
 
@@ -10,5 +10,3 @@
  - Java
  - Python
  - Javascript
- 
- 
