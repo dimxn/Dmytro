@@ -15,7 +15,7 @@ I'm Dmytro Ruzhyckyi, hailing from the picturesque town of Zolochiv in the heart
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=900&size=32&pause=500&vCenter=true&random=false&width=435&lines=JavaScript;React;PHP;REST+API;Python)
 
 ### Most used languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimxnn)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimxn)
 
 ### 🌟 What I Love:
 
